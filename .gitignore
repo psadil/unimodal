@@ -132,3 +132,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+*feather
+511498742
+*png
